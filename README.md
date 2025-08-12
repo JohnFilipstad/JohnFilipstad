@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m John Filipstad
 
-<!--
-**JohnFilipstad/JohnFilipstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web developer & project manager**  
+♿ **Accessibility & inclusion specialist**  
+🌍 **Future-proof, standards-driven web creator**  
+🎨 **Drupal & frontend developer** (themes & modules)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔄 What’s Happening Here
+
+Currently reorganizing my GitHub to focus on projects I’m most passionate about:
+
+* **Accessibility-first design** — meeting WCAG and universal design standards
+* **Standards-driven, future-proof web development** — creating experiences that work for everyone
+* **Modern frontend development** — using native CSS and the latest tools
+* **Drupal theming & module development** — building tailored solutions for diverse needs
+
+---
+
+## 🌍 Beyond Code
+
+I’m also deeply involved in **cultural and humanitarian initiatives** — supporting communities and contributing to projects that make a real difference.
+
+---
+
+## 📫 Connect
+
+* **GitHub:** [JohnFilipstad](https://github.com/JohnFilipstad)
+* **ORCID:** [0009-0002-5167-1974](https://orcid.org/0009-0002-5167-1974)
+* **LinkedIn:** [johnfilipstad](https://www.linkedin.com/in/johnfilipstad/)
